@@ -1,6 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: "/home/andreyka/\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B/AR-Quest/Packages/manifest.json"
+    m_FilePath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Packages/manifest.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -8,7 +8,7 @@ m_ProjectFiles:
       ticks: 637409354770000000
     m_Hash: 2163045331
   m_LockFileStatus:
-    m_FilePath: "/home/andreyka/\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B/AR-Quest/Packages/packages-lock.json"
+    m_FilePath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Packages/packages-lock.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -25,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.9
       source: 1
-      resolvedPath: "/home/andreyka/\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B/AR-Quest/Library/PackageCache/com.unity.collab-proxy@1.3.9"
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.collab-proxy@1.3.9"
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -84,7 +84,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.1
       source: 1
-      resolvedPath: "/home/andreyka/\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B/AR-Quest/Library/PackageCache/com.unity.ide.rider@1.2.1"
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.ide.rider@1.2.1"
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -143,7 +143,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.3
       source: 1
-      resolvedPath: "/home/andreyka/\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B/AR-Quest/Library/PackageCache/com.unity.ide.visualstudio@2.0.3"
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.ide.visualstudio@2.0.3"
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -192,7 +192,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-      resolvedPath: "/home/andreyka/\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B/AR-Quest/Library/PackageCache/com.unity.ide.vscode@1.2.3"
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.ide.vscode@1.2.3"
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -254,14 +254,14 @@ m_PackageAssets:
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.vscode.git
-        revision: 547f63839bdc87e0aed2c9e0d84f8f6336a83ea3
+        revision: b5ec9b38109e52b1b26597d521e4df75e042ebb9
         path: 
     - packageId: com.unity.test-framework@1.1.18
       testable: 0
       isDirectDependency: 1
       version: 1.1.18
       source: 1
-      resolvedPath: "/home/andreyka/\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B/AR-Quest/Library/PackageCache/com.unity.test-framework@1.1.18"
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.test-framework@1.1.18"
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -322,7 +322,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.1
       source: 1
-      resolvedPath: "/home/andreyka/\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B/AR-Quest/Library/PackageCache/com.unity.textmeshpro@3.0.1"
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.textmeshpro@3.0.1"
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -402,7 +402,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.6
       source: 1
-      resolvedPath: "/home/andreyka/\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B/AR-Quest/Library/PackageCache/com.unity.timeline@1.3.6"
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.timeline@1.3.6"
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -606,7 +606,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.1.8
       source: 1
-      resolvedPath: "/home/andreyka/\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B/AR-Quest/Library/PackageCache/com.unity.xr.arcore@3.1.8"
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.xr.arcore@3.1.8"
       assetPath: Packages/com.unity.xr.arcore
       name: com.unity.xr.arcore
       displayName: ARCore XR Plugin
@@ -690,7 +690,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.1.6
       source: 1
-      resolvedPath: "/home/andreyka/\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B/AR-Quest/Library/PackageCache/com.unity.xr.arfoundation@3.1.6"
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.xr.arfoundation@3.1.6"
       assetPath: Packages/com.unity.xr.arfoundation
       name: com.unity.xr.arfoundation
       displayName: AR Foundation
@@ -2497,7 +2497,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 3.1.6
       source: 1
-      resolvedPath: "/home/andreyka/\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B/AR-Quest/Library/PackageCache/com.unity.xr.arsubsystems@3.1.6"
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.xr.arsubsystems@3.1.6"
       assetPath: Packages/com.unity.xr.arsubsystems
       name: com.unity.xr.arsubsystems
       displayName: AR Subsystems
@@ -2554,7 +2554,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 3.2.16
       source: 1
-      resolvedPath: "/home/andreyka/\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B/AR-Quest/Library/PackageCache/com.unity.xr.management@3.2.16"
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.xr.management@3.2.16"
       assetPath: Packages/com.unity.xr.management
       name: com.unity.xr.management
       displayName: XR Plugin Management
@@ -2618,7 +2618,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 1
-      resolvedPath: "/home/andreyka/\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B/AR-Quest/Library/PackageCache/com.unity.ext.nunit@1.0.0"
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.ext.nunit@1.0.0"
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -2669,7 +2669,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: "/home/andreyka/\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B/AR-Quest/Library/PackageCache/com.unity.subsystemregistration@1.0.6"
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.subsystemregistration@1.0.6"
       assetPath: Packages/com.unity.subsystemregistration
       name: com.unity.subsystemregistration
       displayName: Subsystem Registration
@@ -2722,7 +2722,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 2.1.4
       source: 1
-      resolvedPath: "/home/andreyka/\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B/AR-Quest/Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.4"
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.4"
       assetPath: Packages/com.unity.xr.legacyinputhelpers
       name: com.unity.xr.legacyinputhelpers
       displayName: XR Legacy Input Helpers
@@ -2776,5 +2776,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: "/home/andreyka/\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B/AR-Quest/Packages"
+m_ProjectPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Packages"
 m_EditorVersion: 2020.1.12f1 (55b56f0a86e3)

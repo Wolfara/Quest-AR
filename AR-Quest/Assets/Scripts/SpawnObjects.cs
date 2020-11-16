@@ -8,9 +8,10 @@ public class SpawnObjects : MonoBehaviour
     [SerializeField] private GameObject coins;
     [SerializeField] private List<Transform> ulikiPositions = new List<Transform>();
     [SerializeField] private List<Transform> coinsPositions = new List<Transform>();
+    [SerializeField] private GameObject buttonSpawn;
     
     // Start is called before the first frame update
-    void Start()
+    public void SpawnObj()
     {
         for(int i = 0; i < 5; i++)
         {
@@ -20,11 +21,6 @@ public class SpawnObjects : MonoBehaviour
         {
             Instantiate(coins, coinsPositions[i].position, coinsPositions[i].rotation);
         }
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        Destroy(buttonSpawn);
     }
 }

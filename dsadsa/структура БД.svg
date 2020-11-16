@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
+   sodipodi:docname="структура БД.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="27.466568"
+       y="202.59247"
+       width="154.39801"
+       height="26.89917"
+       id="rect1032" />
+    <rect
+       x="27.466568"
+       y="175.6933"
+       width="154.39801"
+       height="26.89917"
+       id="rect1011" />
+    <rect
+       x="27.466568"
+       y="148.79413"
+       width="154.39801"
+       height="26.89917"
+       id="rect988" />
+    <rect
+       x="27.466568"
+       y="148.79413"
+       width="154.39801"
+       height="26.89917"
+       id="rect976" />
+    <rect
+       x="33.214196"
+       y="142.65164"
+       width="5.7476319"
+       height="20.756686"
+       id="rect951" />
+    <rect
+       x="33.231821"
+       y="129.20225"
+       width="148.63276"
+       height="19.591883"
+       id="rect941" />
+    <rect
+       x="37.824551"
+       y="31.342227"
+       width="17.212225"
+       height="2.2688843"
+       id="rect916" />
+    <rect
+       x="12.309979"
+       y="33.572916"
+       width="41.622302"
+       height="23.593746"
+       id="rect877" />
+    <rect
+       x="17.325993"
+       y="21.516644"
+       width="49.524288"
+       height="19.09721"
+       id="rect837" />
+    <rect
+       x="27.466568"
+       y="202.59247"
+       width="154.39801"
+       height="26.89917"
+       id="rect1032-1" />
+    <rect
+       x="27.466568"
+       y="202.59247"
+       width="154.39801"
+       height="26.89917"
+       id="rect1045" />
+    <rect
+       x="27.466568"
+       y="175.6933"
+       width="154.39801"
+       height="26.89917"
+       id="rect1011-2" />
+    <rect
+       x="27.466568"
+       y="175.6933"
+       width="154.39801"
+       height="26.89917"
+       id="rect1048" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70000001"
+     inkscape:cx="232.12274"
+     inkscape:cy="585.42939"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.96274;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect10"
+       width="185.81149"
+       height="32.372017"
+       x="16.535204"
+       y="89.437035" />
+    <text
+       xml:space="preserve"
+       id="text835"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect837);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(3.9176396,0,0,3.9176396,-38.685847,8.7374121)"><tspan
+         x="17.326172"
+         y="26.511585"><tspan
+           style="shape-inside:url(#rect837)">Пользователь</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text914"
+       style="font-size:1.83492px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect916);"
+       transform="matrix(8.9941263,0,0,8.9941263,-363.24929,-50.735018)" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.63092;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect10-3"
+       width="154.39801"
+       height="26.899172"
+       x="32.501831"
+       y="175.77478" />
+    <text
+       xml:space="preserve"
+       id="text939"
+       style="font-size:14.8167px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect941);"
+       transform="translate(7.6979131,51.064208)"><tspan
+         x="33.232422"
+         y="142.31243"><tspan
+           style="shape-inside:url(#rect941)">Собранные улики</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text949"
+       style="line-height:1.25;font-family:sans-serif;font-size:5.64444444px;white-space:pre;shape-inside:url(#rect951);" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.63092;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect10-3-5"
+       width="154.39801"
+       height="26.899172"
+       x="32.501831"
+       y="202.67397" />
+    <text
+       xml:space="preserve"
+       id="text974"
+       style="line-height:1.25;font-family:sans-serif;font-size:5.64444444px;white-space:pre;shape-inside:url(#rect976);" />
+    <text
+       xml:space="preserve"
+       id="text986"
+       style="font-size:15.5222px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect988);"
+       transform="translate(6.8851631,58.764228)"><tspan
+         x="27.466797"
+         y="162.52843"><tspan
+           style="shape-inside:url(#rect988)">Количество монет</tspan></tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.63092;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect10-3-5-2"
+       width="154.39801"
+       height="26.899172"
+       x="32.501823"
+       y="121.97644" />
+    <text
+       xml:space="preserve"
+       id="text1009"
+       style="font-size:16.2278px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1011-2);"
+       transform="matrix(1.6246191,0,0,1.6246191,18.650143,-164.43068)"><tspan
+         x="27.466797"
+         y="190.05116"><tspan
+           style="font-size:16.2278px">Логин</tspan></tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.63092;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect10-3-5-2-9"
+       width="154.39801"
+       height="26.899172"
+       x="32.501823"
+       y="148.87561" />
+    <text
+       xml:space="preserve"
+       id="text1030"
+       style="font-size:15.5222px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1032-1);"
+       transform="matrix(1.6140356,0,0,1.6140356,12.545783,-178.38169)"><tspan
+         x="27.466797"
+         y="216.32531"><tspan
+           style="font-size:15.5222px">Пароль</tspan></tspan></text>
+  </g>
+</svg>

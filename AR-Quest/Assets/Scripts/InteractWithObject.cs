@@ -7,7 +7,7 @@ public class InteractWithObject : MonoBehaviour
 {
     [SerializeField] private Camera arCam;
     [SerializeField] private ARRaycastManager _raycastManager;
-    List<ARRaycastHit> _hits = new List<ARRaycastHit>();
+    //List<ARRaycastHit> _hits = new List<ARRaycastHit>();
 
     // Start is called before the first frame update
     void Start()
@@ -18,22 +18,32 @@ public class InteractWithObject : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        RaycastHit hit;
-        if(Input.GetMouseButtonDown(0))
+        //RaycastHit hit;
+        /*if(Input.GetMouseButtonDown(0))
         {
+            Debug.Log(Input.mousePosition);
             Ray ray = arCam.ScreenPointToRay(Input.mousePosition);
             if(_raycastManager.Raycast(ray, _hits))
             {
-                if (Physics.Raycast(ray, out hit))
+                Transform hitObj = _hits[0].transform;
+                if(hitObj.CompareTag("Coin"))
                 {
-                    if(hit.collider != null)
-                    {
-                        if(hit.collider.gameObject.tag=="Coin")
-                        {
-                            Destroy(hit.collider.gameObject);
-                        }
-                    } 
-                }
+                    
+                    Destroy(_hits);
+                }        
+            }
+        }*/
+
+
+        RaycastHit hit;
+        Ray ray = arCam.ScreenPointToRay(Input.mousePosition);
+        
+        if (Physics.Raycast(ray, out hit)) 
+        {
+            Transform objectHit = hit.transform;
+            if(objectHit.CompareTag("Coin"))
+            {            
+                Destroy(objectHit.gameObject);
             }
         }
     }
