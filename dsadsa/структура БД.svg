@@ -13,9 +13,36 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
-   sodipodi:docname="структура БД.svg">
+   sodipodi:docname="структура БД.svg"
+   inkscape:export-filename="/home/andreyka/Документы/GitHub/Quest-AR/dsadsa/структура БД.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2">
+    <rect
+       x="82.364135"
+       y="237.32979"
+       width="61.716911"
+       height="15.941687"
+       id="rect1065" />
+    <rect
+       x="7.0721734"
+       y="365.90563"
+       width="169.79078"
+       height="39.931117"
+       id="rect1055" />
+    <rect
+       x="71.696804"
+       y="71.046984"
+       width="23.448711"
+       height="78.274718"
+       id="rect935" />
+    <rect
+       x="-3.9491637"
+       y="38.188606"
+       width="101.75209"
+       height="18.73108"
+       id="rect880" />
     <rect
        x="27.466568"
        y="202.59247"
@@ -94,6 +121,78 @@
        width="154.39801"
        height="26.89917"
        id="rect1048" />
+    <rect
+       x="-3.9491637"
+       y="38.188606"
+       width="101.75209"
+       height="18.731079"
+       id="rect880-3" />
+    <rect
+       x="-3.9491637"
+       y="38.188606"
+       width="101.75209"
+       height="18.731079"
+       id="rect893" />
+    <rect
+       x="-3.9491637"
+       y="38.188606"
+       width="101.75209"
+       height="18.731079"
+       id="rect880-5" />
+    <rect
+       x="-3.9491637"
+       y="38.188606"
+       width="101.75209"
+       height="18.731079"
+       id="rect893-3" />
+    <rect
+       x="-3.9491637"
+       y="38.188606"
+       width="101.75209"
+       height="18.731079"
+       id="rect880-2" />
+    <rect
+       x="-3.9491637"
+       y="38.188606"
+       width="101.75209"
+       height="18.731079"
+       id="rect893-9" />
+    <rect
+       x="-3.9491637"
+       y="38.188606"
+       width="101.75209"
+       height="18.731079"
+       id="rect880-7" />
+    <rect
+       x="-3.9491637"
+       y="38.188606"
+       width="101.75209"
+       height="18.731079"
+       id="rect893-0" />
+    <rect
+       x="-3.9491637"
+       y="38.188606"
+       width="101.75209"
+       height="18.731079"
+       id="rect880-2-6" />
+    <rect
+       x="-3.9491637"
+       y="38.188606"
+       width="101.75209"
+       height="18.731079"
+       id="rect988-0" />
+    <rect
+       x="17.325993"
+       y="21.516644"
+       width="49.524288"
+       height="19.09721"
+       id="rect837-2" />
+    <rect
+       x="17.325993"
+       y="21.516644"
+       width="49.524288"
+       height="19.09721"
+       id="rect1027" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -102,18 +201,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70000001"
-     inkscape:cx="232.12274"
-     inkscape:cy="585.42939"
+     inkscape:zoom="0.35000001"
+     inkscape:cx="-505.00848"
+     inkscape:cy="763.30782"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1785"
+     inkscape:window-height="756"
+     inkscape:window-x="-60"
+     inkscape:window-y="203"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -150,73 +249,159 @@
        id="text914"
        style="font-size:1.83492px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect916);"
        transform="matrix(8.9941263,0,0,8.9941263,-363.24929,-50.735018)" />
-    <rect
-       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.63092;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect10-3"
-       width="154.39801"
-       height="26.899172"
-       x="32.501831"
-       y="175.77478" />
-    <text
-       xml:space="preserve"
-       id="text939"
-       style="font-size:14.8167px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect941);"
-       transform="translate(7.6979131,51.064208)"><tspan
-         x="33.232422"
-         y="142.31243"><tspan
-           style="shape-inside:url(#rect941)">Собранные улики</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text949"
        style="line-height:1.25;font-family:sans-serif;font-size:5.64444444px;white-space:pre;shape-inside:url(#rect951);" />
-    <rect
-       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.63092;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect10-3-5"
-       width="154.39801"
-       height="26.899172"
-       x="32.501831"
-       y="202.67397" />
     <text
        xml:space="preserve"
        id="text974"
        style="line-height:1.25;font-family:sans-serif;font-size:5.64444444px;white-space:pre;shape-inside:url(#rect976);" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.501;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path876"
+       cx="47.5303"
+       cy="46.741859"
+       rx="68.935669"
+       ry="20.683134" />
     <text
        xml:space="preserve"
-       id="text986"
-       style="font-size:15.5222px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect988);"
-       transform="translate(6.8851631,58.764228)"><tspan
-         x="27.466797"
-         y="162.52843"><tspan
-           style="shape-inside:url(#rect988)">Количество монет</tspan></tspan></text>
+       id="text878"
+       style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect880);"
+       transform="matrix(2.4057622,0,0,2.4057622,9.8655778,-59.63433)"><tspan
+         x="-3.9492188"
+         y="48.177484"><tspan
+           style="shape-inside:url(#rect880)">Логин</tspan></tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.501;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path876-6"
+       cx="196.0536"
+       cy="50.768021"
+       rx="68.935669"
+       ry="20.683134" />
+    <text
+       xml:space="preserve"
+       id="text878-7"
+       style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect880-3);"
+       transform="matrix(1.9947402,0,0,1.9947402,156.91462,-40.315102)"><tspan
+         x="-3.9492188"
+         y="48.177484"><tspan>Пароль
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text933"
+       style="line-height:1.25;font-family:sans-serif;font-size:5.64444444px;white-space:pre;shape-inside:url(#rect935);" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.501;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path876-1"
+       cx="57.728573"
+       cy="169.35428"
+       rx="68.935669"
+       ry="20.683134" />
+    <text
+       xml:space="preserve"
+       id="text878-2"
+       style="font-size:9.87778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect880-2);"
+       transform="matrix(1.2949931,0,0,1.8207292,0.18928657,89.825336)"><tspan
+         x="-3.9492188"
+         y="46.928973"><tspan
+           style="font-size:9.87778px">Количество монет</tspan></tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.501;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path876-9"
+       cx="210.71696"
+       cy="172.1476"
+       rx="68.935669"
+       ry="20.683134" />
+    <text
+       xml:space="preserve"
+       id="text878-2-6"
+       style="font-size:9.87778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect880-2-6);"
+       transform="matrix(1.3929986,0,0,1.3929986,152.39472,110.09446)"><tspan
+         x="-3.9492188"
+         y="46.928973"><tspan>Собранные улики
+</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 92.115684,122.93468 -7.50787,27.18009"
+       id="path1010" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.08984;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 171.35122,122.67757 25.77868,28.59176"
+       id="path1012" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 176.37772,71.186462 -1.15683,17.749274"
+       id="path1014" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 54.401256,67.058648 4.167958,22.715584"
+       id="path1016" />
     <rect
-       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.63092;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect10-3-5-2"
-       width="154.39801"
-       height="26.899172"
-       x="32.501823"
-       y="121.97644" />
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.33969;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect10-6"
+       width="85.809471"
+       height="32.65802"
+       x="93.030876"
+       y="246.06442" />
     <text
        xml:space="preserve"
-       id="text1009"
-       style="font-size:16.2278px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1011-2);"
-       transform="matrix(1.6246191,0,0,1.6246191,18.650143,-164.43068)"><tspan
-         x="27.466797"
-         y="190.05116"><tspan
-           style="font-size:16.2278px">Логин</tspan></tspan></text>
-    <rect
-       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.63092;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect10-3-5-2-9"
-       width="154.39801"
-       height="26.899172"
-       x="32.501823"
-       y="148.87561" />
+       id="text835-1"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect837-2);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(3.9176396,0,0,3.9176396,30.420898,167.2614)"><tspan
+         x="17.326172"
+         y="26.511585"><tspan>Улики</tspan></tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.566014;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1051"
+       cx="88.511963"
+       cy="317.26266"
+       rx="62.381382"
+       ry="17.984503" />
     <text
        xml:space="preserve"
-       id="text1030"
-       style="font-size:15.5222px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1032-1);"
-       transform="matrix(1.6140356,0,0,1.6140356,12.545783,-178.38169)"><tspan
-         x="27.466797"
-         y="216.32531"><tspan
-           style="font-size:15.5222px">Пароль</tspan></tspan></text>
+       id="text1053"
+       style="font-size:16.9333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1055);"
+       transform="translate(29.062058,-58.243864)"><tspan
+         x="7.0722656"
+         y="380.88825"><tspan
+           style="shape-inside:url(#rect1055)">Текст улики</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.0962;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 121.07867,279.00021 99.949182,299.68559"
+       id="path1059" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.065;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1061"
+       sodipodi:sides="4"
+       sodipodi:cx="21.812319"
+       sodipodi:cy="223.42999"
+       sodipodi:r1="36.589985"
+       sodipodi:r2="25.873028"
+       sodipodi:arg1="-0.037225419"
+       sodipodi:arg2="0.74817274"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 58.376955,222.06823 -35.202873,37.9264 -37.926399,-35.20287 35.202873,-37.9264 z"
+       inkscape:transform-center-y="-3.2880219e-06"
+       transform="matrix(1.190961,0,0,0.60097791,109.99809,78.161455)" />
+    <text
+       xml:space="preserve"
+       id="text1063"
+       style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1065);"
+       transform="matrix(1.0480786,0,0,1.0480786,17.343083,-41.614016)"><tspan
+         x="82.363281"
+         y="247.31811"><tspan
+           style="shape-inside:url(#rect1065)">Сбор улик</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 137.59752,234.41248 93.030875,246.06442"
+       id="path1069" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 134.3539,190.4634 0.65936,-68.22129"
+       id="path1071" />
   </g>
 </svg>
