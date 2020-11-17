@@ -11,6 +11,7 @@
           <e p="ButtonScripts.cs" t="Include" />
           <e p="InteractWithObject.cs" t="Include" />
           <e p="PhoneScript.cs" t="Include" />
+          <e p="SpawnObj.cs" t="Include" />
           <e p="UlikaScript.cs" t="Include" />
         </e>
       </e>

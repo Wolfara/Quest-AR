@@ -13,9 +13,9 @@ public class InteractWithObject : MonoBehaviour
     private int coins;
     [SerializeField] private Text coinsText;
     [SerializeField] private GameObject phoneCanvas;
-
+    [SerializeField] private ARRaycastManager _raycastManager;
     private bool isPhoneActive;
-    //List<ARRaycastHit> _hits = new List<ARRaycastHit>();
+    List<ARRaycastHit> _hits = new List<ARRaycastHit>();
 
     // Start is called before the first frame update
     void Start()
@@ -26,15 +26,14 @@ public class InteractWithObject : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //RaycastHit hit;
+        Ray ray = arCam.ScreenPointToRay(Input.mousePosition);
+        
         /*if(Input.GetMouseButtonDown(0))
         {
-            Debug.Log(Input.mousePosition);
-            Ray ray = arCam.ScreenPointToRay(Input.mousePosition);
             if(_raycastManager.Raycast(ray, _hits))
             {
-                Transform hitObj = _hits[0].transform;
-                if(hitObj.CompareTag("Coin"))
+                Pose pose = _hits[0].pose;
+                if(_hits[0]..("Coin"))
                 {
                     
                     Destroy(_hits);
@@ -44,8 +43,6 @@ public class InteractWithObject : MonoBehaviour
         coinsText.text = coins.ToString();
 
         RaycastHit hit;
-        Ray ray = arCam.ScreenPointToRay(Input.mousePosition);
-        
         if (Physics.Raycast(ray, out hit)) 
         {
             Transform objectHit = hit.transform;

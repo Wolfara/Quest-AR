@@ -202,15 +202,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35000001"
-     inkscape:cx="-505.00848"
-     inkscape:cy="763.30782"
+     inkscape:cx="238.01134"
+     inkscape:cy="810.40132"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1785"
      inkscape:window-height="756"
-     inkscape:window-x="-60"
+     inkscape:window-x="28"
      inkscape:window-y="203"
      inkscape:window-maximized="0" />
   <metadata
@@ -337,71 +337,5 @@
        style="fill:none;stroke:#000000;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 54.401256,67.058648 4.167958,22.715584"
        id="path1016" />
-    <rect
-       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.33969;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect10-6"
-       width="85.809471"
-       height="32.65802"
-       x="93.030876"
-       y="246.06442" />
-    <text
-       xml:space="preserve"
-       id="text835-1"
-       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect837-2);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="matrix(3.9176396,0,0,3.9176396,30.420898,167.2614)"><tspan
-         x="17.326172"
-         y="26.511585"><tspan>Улики</tspan></tspan></text>
-    <ellipse
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.566014;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path1051"
-       cx="88.511963"
-       cy="317.26266"
-       rx="62.381382"
-       ry="17.984503" />
-    <text
-       xml:space="preserve"
-       id="text1053"
-       style="font-size:16.9333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1055);"
-       transform="translate(29.062058,-58.243864)"><tspan
-         x="7.0722656"
-         y="380.88825"><tspan
-           style="shape-inside:url(#rect1055)">Текст улики</tspan></tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.0962;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 121.07867,279.00021 99.949182,299.68559"
-       id="path1059" />
-    <path
-       sodipodi:type="star"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1.065;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path1061"
-       sodipodi:sides="4"
-       sodipodi:cx="21.812319"
-       sodipodi:cy="223.42999"
-       sodipodi:r1="36.589985"
-       sodipodi:r2="25.873028"
-       sodipodi:arg1="-0.037225419"
-       sodipodi:arg2="0.74817274"
-       inkscape:flatsided="true"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 58.376955,222.06823 -35.202873,37.9264 -37.926399,-35.20287 35.202873,-37.9264 z"
-       inkscape:transform-center-y="-3.2880219e-06"
-       transform="matrix(1.190961,0,0,0.60097791,109.99809,78.161455)" />
-    <text
-       xml:space="preserve"
-       id="text1063"
-       style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1065);"
-       transform="matrix(1.0480786,0,0,1.0480786,17.343083,-41.614016)"><tspan
-         x="82.363281"
-         y="247.31811"><tspan
-           style="shape-inside:url(#rect1065)">Сбор улик</tspan></tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 137.59752,234.41248 93.030875,246.06442"
-       id="path1069" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 134.3539,190.4634 0.65936,-68.22129"
-       id="path1071" />
   </g>
 </svg>

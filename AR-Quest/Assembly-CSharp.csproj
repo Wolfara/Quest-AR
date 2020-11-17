@@ -50,6 +50,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\SpawnObj.cs" />
      <Compile Include="Assets\Scripts\InteractWithObject.cs" />
      <Compile Include="Assets\Scripts\PhoneScript.cs" />
      <Compile Include="Assets\Scripts\UlikaScript.cs" />
