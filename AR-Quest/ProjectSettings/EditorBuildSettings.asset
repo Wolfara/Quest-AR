@@ -11,6 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Quest1Scene2.unity
     guid: dcd951adfc15d40b28708234fcdf76e5
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 916fe67bb258c924b9405668b0d1bd09
+  - enabled: 1
+    path: Assets/Scenes/QuestChoise.unity
+    guid: b18b10377655040409fd552301ed9330
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 984d4ff650445ec4fb2df7c3a23197af, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 50e606902f1826f49a8ca11fefe4f8cb, type: 2}

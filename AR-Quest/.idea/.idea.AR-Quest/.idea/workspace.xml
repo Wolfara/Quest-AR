@@ -120,18 +120,23 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.management@3.2.16/Editor/Metadata/XRPackageMetadata.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/QuestChoise.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UlikaScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.management@3.2.16/Editor/Metadata/XRPackageMetadata.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpawnObj.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FinalChoise.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/UlikaScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PhoneScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/InteractWithObject.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SpawnObj.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ButtonScripts.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UlikaScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractWithObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/QuestChoise.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnteringScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FinalChoise.cs" />
       </list>
     </option>
   </component>
@@ -145,7 +150,7 @@
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -183,6 +188,7 @@
       <workItem from="1605596924448" duration="1485000" />
       <workItem from="1605609596803" duration="1283000" />
       <workItem from="1605613689340" duration="633000" />
+      <workItem from="1605778854166" duration="5856000" />
     </task>
     <servers />
   </component>
@@ -207,9 +213,14 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="441" y="188" key="SettingsEditor" timestamp="1605597866140">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state x="441" y="159" key="SettingsEditor" timestamp="1605780804729">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="441" y="159" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605780804729" />
     <state x="441" y="188" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1605597866140" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1605780616034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605780616034" />
   </component>
 </project>

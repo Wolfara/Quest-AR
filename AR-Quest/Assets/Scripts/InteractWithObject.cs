@@ -7,6 +7,7 @@ using UnityEngine.UI;
 public class InteractWithObject : MonoBehaviour
 {
     [SerializeField] private Camera arCam;
+
     //[SerializeField] private ARRaycastManager _raycastManager;
     [SerializeField] private Text ulikaText;
     [SerializeField] private GameObject ulikaPanel;
@@ -27,7 +28,7 @@ public class InteractWithObject : MonoBehaviour
     void Update()
     {
         Ray ray = arCam.ScreenPointToRay(Input.mousePosition);
-        
+
         /*if(Input.GetMouseButtonDown(0))
         {
             if(_raycastManager.Raycast(ray, _hits))
@@ -41,27 +42,29 @@ public class InteractWithObject : MonoBehaviour
             }
         }*/
         coinsText.text = coins.ToString();
-
-        RaycastHit hit;
-        if (Physics.Raycast(ray, out hit)) 
+        if (Input.GetMouseButtonDown(0))
         {
-            Transform objectHit = hit.transform;
-            if(objectHit.CompareTag("Coin"))
-            {            
-                Destroy(objectHit.gameObject);
-                coins++;
-            }
-            else if(objectHit.CompareTag("Ulika"))
+            RaycastHit hit;
+            if (Physics.Raycast(ray, out hit))
             {
-                ulikaText.text = objectHit.GetComponent<UlikaScript>().desc;
-                ulikaPanel.SetActive(true);
-                if (objectHit.GetComponent<UlikaScript>().finalUlika)
-                    isPhoneActive = true;
-            }
-            else if (objectHit.CompareTag("Budka") && isPhoneActive)
-            {
-                if(GameObject.Find("PhoneCanvas(Clone)") == null)
-                    Instantiate(phoneCanvas);
+                Transform objectHit = hit.transform;
+                if (objectHit.CompareTag("Coin"))
+                {
+                    Destroy(objectHit.gameObject);
+                    coins++;
+                }
+                else if (objectHit.CompareTag("Ulika"))
+                {
+                    ulikaText.text = objectHit.GetComponent<UlikaScript>().desc;
+                    ulikaPanel.SetActive(true);
+                    if (objectHit.GetComponent<UlikaScript>().finalUlika)
+                        isPhoneActive = true;
+                }
+                else if (objectHit.CompareTag("Budka") && isPhoneActive)
+                {
+                    if (GameObject.Find("PhoneCanvas(Clone)") == null)
+                        Instantiate(phoneCanvas);
+                }
             }
         }
     }
