@@ -7,12 +7,12 @@ public class QuestChoise : MonoBehaviour
 {
     public void Quest1()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
 
     public void Back()
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(0);
     }
 
     public void QuestChoiseMenu()

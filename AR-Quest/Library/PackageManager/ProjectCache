@@ -1,19 +1,19 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/Glek/Documents/GitHub/Quest/AR-Quest/Packages/manifest.json
+    m_FilePath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Packages/manifest.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637413715784076143
+      ticks: 637413874610000000
     m_Hash: 3316502063
   m_LockFileStatus:
-    m_FilePath: C:/Users/Glek/Documents/GitHub/Quest/AR-Quest/Packages/packages-lock.json
+    m_FilePath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Packages/packages-lock.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637413715784546144
+      ticks: 637413874610000000
     m_Hash: 411659823
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -25,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.9
       source: 1
-      resolvedPath: C:\Users\Glek\Documents\GitHub\Quest\AR-Quest\Library\PackageCache\com.unity.collab-proxy@1.3.9
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.collab-proxy@1.3.9"
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -42,45 +42,9 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.2.3-preview
-        - 1.2.4-preview
-        - 1.2.6
-        - 1.2.7
-        - 1.2.9
-        - 1.2.11
-        - 1.2.15
-        - 1.2.16
-        - 1.2.17-preview.3
-        - 1.3.2
-        - 1.3.3
-        - 1.3.4
-        - 1.3.5
-        - 1.3.6
-        - 1.3.7
-        - 1.3.8
         - 1.3.9
-        - 2.0.0-preview.6
-        - 2.0.0-preview.8
-        - 2.0.0-preview.15
-        - 2.0.0-preview.17
-        - 2.0.0-preview.20
-        - 2.0.0-preview.21
-        - 2.0.0-preview.22
-        - 2.1.0-preview.3
-        - 2.1.0-preview.5
-        - 2.1.0-preview.6
         compatible:
         - 1.3.9
-        - 2.0.0-preview.6
-        - 2.0.0-preview.8
-        - 2.0.0-preview.15
-        - 2.0.0-preview.17
-        - 2.0.0-preview.20
-        - 2.0.0-preview.21
-        - 2.0.0-preview.22
-        - 2.1.0-preview.3
-        - 2.1.0-preview.5
-        - 2.1.0-preview.6
         verified: 1.3.9
       dependencies: []
       resolvedDependencies: []
@@ -107,7 +71,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637314349270000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -120,7 +84,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.1
       source: 1
-      resolvedPath: C:\Users\Glek\Documents\GitHub\Quest\AR-Quest\Library\PackageCache\com.unity.ide.rider@1.2.1
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.ide.rider@1.2.1"
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -137,47 +101,9 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.0.2
-        - 1.0.6
-        - 1.0.8
-        - 1.1.0
-        - 1.1.1
-        - 1.1.2-preview
-        - 1.1.2-preview.2
-        - 1.1.3-preview.1
-        - 1.1.4-preview
-        - 1.1.4
-        - 1.2.0-preview
         - 1.2.1
-        - 2.0.0-preview
-        - 2.0.1
-        - 2.0.2
-        - 2.0.3
-        - 2.0.5
-        - 2.0.7
-        - 3.0.1
-        - 3.0.2
         compatible:
-        - 1.0.2
-        - 1.0.6
-        - 1.0.8
-        - 1.1.0
-        - 1.1.1
-        - 1.1.2-preview
-        - 1.1.2-preview.2
-        - 1.1.3-preview.1
-        - 1.1.4-preview
-        - 1.1.4
-        - 1.2.0-preview
         - 1.2.1
-        - 2.0.0-preview
-        - 2.0.1
-        - 2.0.2
-        - 2.0.3
-        - 2.0.5
-        - 2.0.7
-        - 3.0.1
-        - 3.0.2
         verified: 1.2.1
       dependencies:
       - name: com.unity.test-framework
@@ -204,20 +130,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637123753810000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: git@github.cds.internal.unity3d.com:unity/com.unity.ide.rider.git
-        revision: 009bcadf1eb16d9bbf3d00bcf6ccdde2162ce0cb
+        revision: 038f7161a30add43d98b31fd686ade12ffb96adb
         path: 
     - packageId: com.unity.ide.visualstudio@2.0.5
       testable: 0
       isDirectDependency: 1
       version: 2.0.5
       source: 1
-      resolvedPath: C:\Users\Glek\Documents\GitHub\Quest\AR-Quest\Library\PackageCache\com.unity.ide.visualstudio@2.0.5
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.ide.visualstudio@2.0.5"
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -286,7 +212,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-      resolvedPath: C:\Users\Glek\Documents\GitHub\Quest\AR-Quest\Library\PackageCache\com.unity.ide.vscode@1.2.3
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.ide.vscode@1.2.3"
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -355,7 +281,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.18
       source: 1
-      resolvedPath: C:\Users\Glek\Documents\GitHub\Quest\AR-Quest\Library\PackageCache\com.unity.test-framework@1.1.18
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.test-framework@1.1.18"
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -370,35 +296,10 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 0.0.4-preview
-        - 0.0.29-preview
-        - 1.0.0
-        - 1.0.7
-        - 1.0.9
-        - 1.0.11
-        - 1.0.12
-        - 1.0.13
-        - 1.0.14
-        - 1.0.16
-        - 1.0.17
-        - 1.0.18
-        - 1.1.0
-        - 1.1.1
-        - 1.1.2
-        - 1.1.3
-        - 1.1.5
-        - 1.1.8
-        - 1.1.9
-        - 1.1.11
-        - 1.1.13
-        - 1.1.14
-        - 1.1.16
         - 1.1.18
-        - 1.1.19
         compatible:
         - 1.1.18
-        - 1.1.19
-        verified: 1.1.19
+        verified: 1.1.18
       dependencies:
       - name: com.unity.ext.nunit
         version: 1.0.0
@@ -428,12 +329,12 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637378481950000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
+        url: https://github.com/Unity-Technologies/com.unity.test-framework.git
         revision: 14025b364215f4465cbe1beb7a81e486b2687ced
         path: 
     - packageId: com.unity.textmeshpro@3.0.1
@@ -441,7 +342,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.1
       source: 1
-      resolvedPath: C:\Users\Glek\Documents\GitHub\Quest\AR-Quest\Library\PackageCache\com.unity.textmeshpro@3.0.1
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.textmeshpro@3.0.1"
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -476,77 +377,10 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 0.1.2
-        - 1.0.21
-        - 1.0.23
-        - 1.0.25
-        - 1.0.26
-        - 1.1.0
-        - 1.2.0
-        - 1.2.1
-        - 1.2.2
-        - 1.2.3
-        - 1.2.4
-        - 1.3.0-preview
-        - 1.3.0
-        - 1.4.0-preview.1b
-        - 1.4.0-preview.2a
-        - 1.4.0-preview.3a
-        - 1.4.0
-        - 1.4.1-preview.1
-        - 1.4.1
-        - 1.5.0-preview.1
-        - 1.5.0-preview.2
-        - 1.5.0-preview.3
-        - 1.5.0-preview.4
-        - 1.5.0-preview.5
-        - 1.5.0-preview.6
-        - 1.5.0-preview.7
-        - 1.5.0-preview.8
-        - 1.5.0-preview.10
-        - 1.5.0-preview.11
-        - 1.5.0-preview.12
-        - 1.5.0-preview.13
-        - 1.5.0-preview.14
-        - 1.5.0
-        - 1.5.1
-        - 1.5.3
-        - 2.0.0
-        - 2.0.1-preview.1
-        - 2.0.1
-        - 2.1.0-preview.1
-        - 2.1.0-preview.2
-        - 2.1.0-preview.3
-        - 2.1.0-preview.4
-        - 2.1.0-preview.5
-        - 2.1.0-preview.7
-        - 2.1.0-preview.8
-        - 2.1.0-preview.10
-        - 2.1.0-preview.11
-        - 2.1.0-preview.12
-        - 2.1.0-preview.13
-        - 2.1.0-preview.14
-        - 2.1.0
-        - 2.1.1
-        - 2.1.3
-        - 3.0.0-preview.1
-        - 3.0.0-preview.3
-        - 3.0.0-preview.4
-        - 3.0.0-preview.5
-        - 3.0.0-preview.7
-        - 3.0.0-preview.8
-        - 3.0.0-preview.10
-        - 3.0.0-preview.11
-        - 3.0.0-preview.12
-        - 3.0.0-preview.13
-        - 3.0.0-preview.14
-        - 3.0.0
         - 3.0.1
-        - 3.0.3
         compatible:
         - 3.0.1
-        - 3.0.3
-        verified: 3.0.3
+        verified: 3.0.1
       dependencies:
       - name: com.unity.ugui
         version: 1.0.0
@@ -575,7 +409,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637314376320000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -588,7 +422,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.6
       source: 1
-      resolvedPath: C:\Users\Glek\Documents\GitHub\Quest\AR-Quest\Library\PackageCache\com.unity.timeline@1.3.6
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.timeline@1.3.6"
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -729,7 +563,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui
       assetPath: Packages/com.unity.ugui
       name: com.unity.ugui
       displayName: Unity UI
@@ -792,7 +626,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.1.8
       source: 1
-      resolvedPath: C:\Users\Glek\Documents\GitHub\Quest\AR-Quest\Library\PackageCache\com.unity.xr.arcore@3.1.8
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.xr.arcore@3.1.8"
       assetPath: Packages/com.unity.xr.arcore
       name: com.unity.xr.arcore
       displayName: ARCore XR Plugin
@@ -822,103 +656,9 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.0.0-preview.24
-        - 2.0.2
-        - 2.1.0-preview.4
-        - 2.1.0-preview.5
-        - 2.1.0
-        - 2.1.1
-        - 2.1.2
-        - 2.1.8
-        - 2.1.11
-        - 2.1.12
-        - 2.2.0-preview.1
-        - 2.2.0-preview.2
-        - 2.2.0-preview.6
-        - 3.0.0-preview.1
-        - 3.0.0-preview.2
-        - 3.0.0-preview.3
-        - 3.0.0-preview.4
-        - 3.0.1
-        - 3.0.3
-        - 3.0.4
-        - 3.1.0-preview.1
-        - 3.1.0-preview.2
-        - 3.1.0-preview.4
-        - 3.1.0-preview.6
-        - 3.1.0-preview.7
-        - 3.1.0-preview.8
-        - 3.1.3
-        - 3.1.4
-        - 3.1.5
-        - 3.1.7
         - 3.1.8
-        - 4.0.0-preview.1
-        - 4.0.0-preview.3
-        - 4.0.3
-        - 4.0.4
-        - 4.0.8
-        - 4.0.9
-        - 4.1.0-preview.2
-        - 4.1.0-preview.3
-        - 4.1.0-preview.5
-        - 4.1.0-preview.6
-        - 4.1.0-preview.7
-        - 4.1.0-preview.9
-        - 4.1.0-preview.10
-        - 4.1.0-preview.11
-        - 4.1.0-preview.12
-        - 4.1.0-preview.13
-        - 4.1.1
         compatible:
-        - 1.0.0-preview.24
-        - 2.0.2
-        - 2.1.0-preview.4
-        - 2.1.0-preview.5
-        - 2.1.0
-        - 2.1.1
-        - 2.1.2
-        - 2.1.8
-        - 2.1.11
-        - 2.1.12
-        - 2.2.0-preview.1
-        - 2.2.0-preview.2
-        - 2.2.0-preview.6
-        - 3.0.0-preview.1
-        - 3.0.0-preview.2
-        - 3.0.0-preview.3
-        - 3.0.0-preview.4
-        - 3.0.1
-        - 3.0.3
-        - 3.0.4
-        - 3.1.0-preview.1
-        - 3.1.0-preview.2
-        - 3.1.0-preview.4
-        - 3.1.0-preview.6
-        - 3.1.0-preview.7
-        - 3.1.0-preview.8
-        - 3.1.3
-        - 3.1.4
-        - 3.1.5
-        - 3.1.7
         - 3.1.8
-        - 4.0.0-preview.1
-        - 4.0.0-preview.3
-        - 4.0.3
-        - 4.0.4
-        - 4.0.8
-        - 4.0.9
-        - 4.1.0-preview.2
-        - 4.1.0-preview.3
-        - 4.1.0-preview.5
-        - 4.1.0-preview.6
-        - 4.1.0-preview.7
-        - 4.1.0-preview.9
-        - 4.1.0-preview.10
-        - 4.1.0-preview.11
-        - 4.1.0-preview.12
-        - 4.1.0-preview.13
-        - 4.1.1
         verified: 3.1.8
       dependencies:
       - name: com.unity.xr.arsubsystems
@@ -957,12 +697,12 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637388000230000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: git+https://github.com/Unity-Technologies/upm-xr-arcore.git
+        url: https://github.com/Unity-Technologies/upm-xr-arcore.git
         revision: 49bbf2eb1b0ff93c747496028c4d41b4dccc6e8b
         path: 
     - packageId: com.unity.xr.arfoundation@3.1.6
@@ -970,7 +710,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.1.6
       source: 1
-      resolvedPath: C:\Users\Glek\Documents\GitHub\Quest\AR-Quest\Library\PackageCache\com.unity.xr.arfoundation@3.1.6
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.xr.arfoundation@3.1.6"
       assetPath: Packages/com.unity.xr.arfoundation
       name: com.unity.xr.arfoundation
       displayName: AR Foundation
@@ -989,119 +729,9 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.0.0-preview.12
-        - 1.0.0-preview.13
-        - 1.0.0-preview.14
-        - 1.0.0-preview.17
-        - 1.0.0-preview.18
-        - 1.0.0-preview.19
-        - 1.0.0-preview.20
-        - 1.0.0-preview.22
-        - 1.1.0-preview.6
-        - 1.5.0-preview.2
-        - 1.5.0-preview.5
-        - 1.5.0-preview.6
-        - 1.5.0-preview.7
-        - 2.0.2
-        - 2.1.0-preview.2
-        - 2.1.0-preview.3
-        - 2.1.1
-        - 2.1.3
-        - 2.1.4
-        - 2.1.8
-        - 2.1.10
-        - 2.2.0-preview.2
-        - 2.2.0-preview.3
-        - 2.2.0-preview.6
-        - 3.0.0-preview.1
-        - 3.0.0-preview.2
-        - 3.0.0-preview.3
-        - 3.0.0-preview.4
-        - 3.0.0-preview.6
-        - 3.0.1
-        - 3.1.0-preview.1
-        - 3.1.0-preview.3
-        - 3.1.0-preview.4
-        - 3.1.0-preview.6
-        - 3.1.0-preview.7
-        - 3.1.0-preview.8
-        - 3.1.3
-        - 3.1.5
         - 3.1.6
-        - 4.0.0-preview.1
-        - 4.0.0-preview.3
-        - 4.0.2
-        - 4.0.8
-        - 4.0.9
-        - 4.1.0-preview.1
-        - 4.1.0-preview.2
-        - 4.1.0-preview.3
-        - 4.1.0-preview.5
-        - 4.1.0-preview.6
-        - 4.1.0-preview.7
-        - 4.1.0-preview.9
-        - 4.1.0-preview.10
-        - 4.1.0-preview.11
-        - 4.1.0-preview.12
-        - 4.1.0-preview.13
-        - 4.1.1
         compatible:
-        - 1.0.0-preview.12
-        - 1.0.0-preview.13
-        - 1.0.0-preview.14
-        - 1.0.0-preview.17
-        - 1.0.0-preview.18
-        - 1.0.0-preview.19
-        - 1.0.0-preview.20
-        - 1.0.0-preview.22
-        - 1.1.0-preview.6
-        - 1.5.0-preview.2
-        - 1.5.0-preview.5
-        - 1.5.0-preview.6
-        - 1.5.0-preview.7
-        - 2.0.2
-        - 2.1.0-preview.2
-        - 2.1.0-preview.3
-        - 2.1.1
-        - 2.1.3
-        - 2.1.4
-        - 2.1.8
-        - 2.1.10
-        - 2.2.0-preview.2
-        - 2.2.0-preview.3
-        - 2.2.0-preview.6
-        - 3.0.0-preview.1
-        - 3.0.0-preview.2
-        - 3.0.0-preview.3
-        - 3.0.0-preview.4
-        - 3.0.0-preview.6
-        - 3.0.1
-        - 3.1.0-preview.1
-        - 3.1.0-preview.3
-        - 3.1.0-preview.4
-        - 3.1.0-preview.6
-        - 3.1.0-preview.7
-        - 3.1.0-preview.8
-        - 3.1.3
-        - 3.1.5
         - 3.1.6
-        - 4.0.0-preview.1
-        - 4.0.0-preview.3
-        - 4.0.2
-        - 4.0.8
-        - 4.0.9
-        - 4.1.0-preview.1
-        - 4.1.0-preview.2
-        - 4.1.0-preview.3
-        - 4.1.0-preview.5
-        - 4.1.0-preview.6
-        - 4.1.0-preview.7
-        - 4.1.0-preview.9
-        - 4.1.0-preview.10
-        - 4.1.0-preview.11
-        - 4.1.0-preview.12
-        - 4.1.0-preview.13
-        - 4.1.1
         verified: 3.1.6
       dependencies:
       - name: com.unity.xr.arsubsystems
@@ -1132,7 +762,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637387999130000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -1145,7 +775,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ai
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai
       assetPath: Packages/com.unity.modules.ai
       name: com.unity.modules.ai
       displayName: AI
@@ -1193,7 +823,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.androidjni
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.androidjni
       assetPath: Packages/com.unity.modules.androidjni
       name: com.unity.modules.androidjni
       displayName: Android JNI
@@ -1241,7 +871,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation
       assetPath: Packages/com.unity.modules.animation
       name: com.unity.modules.animation
       displayName: Animation
@@ -1289,7 +919,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.assetbundle
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle
       assetPath: Packages/com.unity.modules.assetbundle
       name: com.unity.modules.assetbundle
       displayName: Asset Bundle
@@ -1337,7 +967,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.audio
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio
       assetPath: Packages/com.unity.modules.audio
       name: com.unity.modules.audio
       displayName: Audio
@@ -1385,7 +1015,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.cloth
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth
       assetPath: Packages/com.unity.modules.cloth
       name: com.unity.modules.cloth
       displayName: Cloth
@@ -1437,7 +1067,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.director
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.director
       assetPath: Packages/com.unity.modules.director
       name: com.unity.modules.director
       displayName: Director
@@ -1493,7 +1123,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imageconversion
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion
       assetPath: Packages/com.unity.modules.imageconversion
       name: com.unity.modules.imageconversion
       displayName: Image Conversion
@@ -1542,7 +1172,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imgui
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui
       assetPath: Packages/com.unity.modules.imgui
       name: com.unity.modules.imgui
       displayName: IMGUI
@@ -1590,7 +1220,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.jsonserialize
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize
       assetPath: Packages/com.unity.modules.jsonserialize
       name: com.unity.modules.jsonserialize
       displayName: JSONSerialize
@@ -1638,7 +1268,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.particlesystem
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem
       assetPath: Packages/com.unity.modules.particlesystem
       name: com.unity.modules.particlesystem
       displayName: Particle System
@@ -1686,7 +1316,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics
       assetPath: Packages/com.unity.modules.physics
       name: com.unity.modules.physics
       displayName: Physics
@@ -1734,7 +1364,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics2d
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d
       assetPath: Packages/com.unity.modules.physics2d
       name: com.unity.modules.physics2d
       displayName: Physics 2D
@@ -1782,7 +1412,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.screencapture
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture
       assetPath: Packages/com.unity.modules.screencapture
       name: com.unity.modules.screencapture
       displayName: Screen Capture
@@ -1834,7 +1464,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrain
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain
       assetPath: Packages/com.unity.modules.terrain
       name: com.unity.modules.terrain
       displayName: Terrain
@@ -1882,7 +1512,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrainphysics
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics
       assetPath: Packages/com.unity.modules.terrainphysics
       name: com.unity.modules.terrainphysics
       displayName: Terrain Physics
@@ -1938,7 +1568,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.tilemap
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap
       assetPath: Packages/com.unity.modules.tilemap
       name: com.unity.modules.tilemap
       displayName: Tilemap
@@ -1990,7 +1620,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ui
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui
       assetPath: Packages/com.unity.modules.ui
       name: com.unity.modules.ui
       displayName: UI
@@ -2038,7 +1668,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements
       assetPath: Packages/com.unity.modules.uielements
       name: com.unity.modules.uielements
       displayName: UIElements
@@ -2102,7 +1732,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.umbra
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra
       assetPath: Packages/com.unity.modules.umbra
       name: com.unity.modules.umbra
       displayName: Umbra
@@ -2150,7 +1780,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unityanalytics
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics
       assetPath: Packages/com.unity.modules.unityanalytics
       name: com.unity.modules.unityanalytics
       displayName: Unity Analytics
@@ -2206,7 +1836,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest
       assetPath: Packages/com.unity.modules.unitywebrequest
       name: com.unity.modules.unitywebrequest
       displayName: Unity Web Request
@@ -2254,7 +1884,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestassetbundle
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle
       assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
       name: com.unity.modules.unitywebrequestassetbundle
       displayName: Unity Web Request Asset Bundle
@@ -2310,7 +1940,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestaudio
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio
       assetPath: Packages/com.unity.modules.unitywebrequestaudio
       name: com.unity.modules.unitywebrequestaudio
       displayName: Unity Web Request Audio
@@ -2366,7 +1996,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequesttexture
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture
       assetPath: Packages/com.unity.modules.unitywebrequesttexture
       name: com.unity.modules.unitywebrequesttexture
       displayName: Unity Web Request Texture
@@ -2422,7 +2052,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestwww
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww
       assetPath: Packages/com.unity.modules.unitywebrequestwww
       name: com.unity.modules.unitywebrequestwww
       displayName: Unity Web Request WWW
@@ -2494,7 +2124,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vehicles
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles
       assetPath: Packages/com.unity.modules.vehicles
       name: com.unity.modules.vehicles
       displayName: Vehicles
@@ -2546,7 +2176,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.video
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.video
       assetPath: Packages/com.unity.modules.video
       name: com.unity.modules.video
       displayName: Video
@@ -2606,7 +2236,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vr
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr
       assetPath: Packages/com.unity.modules.vr
       name: com.unity.modules.vr
       displayName: VR
@@ -2668,7 +2298,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.wind
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind
       assetPath: Packages/com.unity.modules.wind
       name: com.unity.modules.wind
       displayName: Wind
@@ -2716,7 +2346,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.xr
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr
       assetPath: Packages/com.unity.modules.xr
       name: com.unity.modules.xr
       displayName: XR
@@ -2776,7 +2406,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.subsystems
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.subsystems
       assetPath: Packages/com.unity.modules.subsystems
       name: com.unity.modules.subsystems
       displayName: Subsystems
@@ -2828,7 +2458,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.13f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielementsnative
+      resolvedPath: /home/andreyka/Unity/Hub/Editor/2020.1.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielementsnative
       assetPath: Packages/com.unity.modules.uielementsnative
       name: com.unity.modules.uielementsnative
       displayName: UIElements Native
@@ -2887,7 +2517,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 3.1.6
       source: 1
-      resolvedPath: C:\Users\Glek\Documents\GitHub\Quest\AR-Quest\Library\PackageCache\com.unity.xr.arsubsystems@3.1.6
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.xr.arsubsystems@3.1.6"
       assetPath: Packages/com.unity.xr.arsubsystems
       name: com.unity.xr.arsubsystems
       displayName: AR Subsystems
@@ -2903,69 +2533,11 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 2.0.2
-        - 2.1.0-preview.1
-        - 2.1.0-preview.2
-        - 2.1.0
-        - 2.1.1
-        - 2.1.2
-        - 2.1.3
-        - 2.2.0-preview.2
-        - 2.2.0-preview.3
-        - 2.2.0-preview.6
-        - 3.0.0-preview.1
-        - 3.0.0-preview.2
-        - 3.0.0-preview.3
-        - 3.0.0-preview.4
-        - 3.0.0
-        - 3.0.2
-        - 3.1.0-preview.1
-        - 3.1.0-preview.2
-        - 3.1.0-preview.4
-        - 3.1.0-preview.6
-        - 3.1.0-preview.7
-        - 3.1.0-preview.8
         - 3.1.3
-        - 3.1.5
         - 3.1.6
-        - 4.0.0-preview.1
-        - 4.0.0-preview.3
-        - 4.0.1
-        - 4.0.8
-        - 4.0.9
-        - 4.1.0-preview.1
-        - 4.1.0-preview.2
-        - 4.1.0-preview.3
-        - 4.1.0-preview.5
-        - 4.1.0-preview.6
-        - 4.1.0-preview.7
-        - 4.1.0-preview.9
-        - 4.1.0-preview.10
-        - 4.1.0-preview.11
-        - 4.1.0-preview.12
-        - 4.1.0-preview.13
-        - 4.1.1
         compatible:
         - 3.1.3
-        - 3.1.5
         - 3.1.6
-        - 4.0.0-preview.1
-        - 4.0.0-preview.3
-        - 4.0.1
-        - 4.0.8
-        - 4.0.9
-        - 4.1.0-preview.1
-        - 4.1.0-preview.2
-        - 4.1.0-preview.3
-        - 4.1.0-preview.5
-        - 4.1.0-preview.6
-        - 4.1.0-preview.7
-        - 4.1.0-preview.9
-        - 4.1.0-preview.10
-        - 4.1.0-preview.11
-        - 4.1.0-preview.12
-        - 4.1.0-preview.13
-        - 4.1.1
         verified: 3.1.6
       dependencies:
       - name: com.unity.subsystemregistration
@@ -2989,7 +2561,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637387998540000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3002,7 +2574,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 3.2.16
       source: 1
-      resolvedPath: C:\Users\Glek\Documents\GitHub\Quest\AR-Quest\Library\PackageCache\com.unity.xr.management@3.2.16
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.xr.management@3.2.16"
       assetPath: Packages/com.unity.xr.management
       name: com.unity.xr.management
       displayName: XR Plugin Management
@@ -3019,40 +2591,6 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 0.1.0-preview.8
-        - 0.1.0-preview.12
-        - 1.0.0-preview.2
-        - 2.0.0-preview.3
-        - 2.0.0-preview.6
-        - 2.0.0-preview.9
-        - 2.0.0-preview.10
-        - 2.0.0-preview.13
-        - 2.0.0-preview.21
-        - 2.0.0-preview.22
-        - 2.0.0-preview.24
-        - 2.0.0-preview.25
-        - 2.0.0-preview.26
-        - 3.0.1
-        - 3.0.2-preview.1
-        - 3.0.2-preview.2
-        - 3.0.3
-        - 3.0.4-preview.1
-        - 3.0.4-preview.3
-        - 3.0.4
-        - 3.0.5-preview.1
-        - 3.0.5
-        - 3.0.6-preview.2
-        - 3.0.6
-        - 3.1.0-preview.2
-        - 3.2.4
-        - 3.2.6
-        - 3.2.7
-        - 3.2.9
-        - 3.2.10
-        - 3.2.11-preview.1
-        - 3.2.12
-        - 3.2.13
-        - 3.2.15
         - 3.2.16
         compatible:
         - 3.2.16
@@ -3087,7 +2625,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637377029510000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3100,7 +2638,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 1
-      resolvedPath: C:\Users\Glek\Documents\GitHub\Quest\AR-Quest\Library\PackageCache\com.unity.ext.nunit@1.0.0
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.ext.nunit@1.0.0"
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -3116,18 +2654,10 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 0.1.5-preview
-        - 0.1.6-preview
-        - 0.1.9-preview
         - 1.0.0
-        - 1.0.5
         compatible:
-        - 0.1.5-preview
-        - 0.1.6-preview
-        - 0.1.9-preview
         - 1.0.0
-        - 1.0.5
-        verified: 1.0.5
+        verified: 1.0.0
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -3146,7 +2676,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 636898893830000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3159,7 +2689,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: C:\Users\Glek\Documents\GitHub\Quest\AR-Quest\Library\PackageCache\com.unity.subsystemregistration@1.0.6
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.subsystemregistration@1.0.6"
       assetPath: Packages/com.unity.subsystemregistration
       name: com.unity.subsystemregistration
       displayName: Subsystem Registration
@@ -3175,9 +2705,6 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.0.0-preview.4
-        - 1.0.4
-        - 1.0.5
         - 1.0.6
         - 1.1.0
         compatible:
@@ -3202,7 +2729,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637056434700000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3215,7 +2742,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 2.1.4
       source: 1
-      resolvedPath: C:\Users\Glek\Documents\GitHub\Quest\AR-Quest\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.4
+      resolvedPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.4"
       assetPath: Packages/com.unity.xr.legacyinputhelpers
       name: com.unity.xr.legacyinputhelpers
       displayName: XR Legacy Input Helpers
@@ -3235,25 +2762,6 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.0.0
-        - 1.0.2
-        - 1.0.3
-        - 1.3.1
-        - 1.3.2
-        - 1.3.4
-        - 1.3.5
-        - 1.3.6
-        - 1.3.7
-        - 1.3.8
-        - 1.3.11
-        - 2.0.1
-        - 2.0.2
-        - 2.0.4
-        - 2.0.6
-        - 2.0.8
-        - 2.1.1
-        - 2.1.2
-        - 2.1.3
         - 2.1.4
         compatible:
         - 2.1.4
@@ -3278,7 +2786,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637244797630000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3288,5 +2796,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: C:/Users/Glek/Documents/GitHub/Quest/AR-Quest/Packages
-m_EditorVersion: 2020.1.13f1 (5e24f28bfbc0)
+m_ProjectPath: "/home/andreyka/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/Quest-AR/AR-Quest/Packages"
+m_EditorVersion: 2020.1.12f1 (55b56f0a86e3)

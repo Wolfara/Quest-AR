@@ -42,7 +42,7 @@ public class PhoneScript : MonoBehaviour
         }
         else if (fraza == 3)
         {
-            SceneManager.LoadScene(1);
+            SceneManager.LoadScene(2);
         }
         fraza++;
     }
