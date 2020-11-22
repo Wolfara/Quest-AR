@@ -1,0 +1,44 @@
+newmtl wire_212091032
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd medal_wire_212091032_color.tga
+map_Ks medal_wire_212091032_gloss.tga
+map_bump medal_wire_212091032_nmap.tga
+newmtl wire_091004004
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd medal_wire_212091032_color.tga
+map_Ks medal_wire_212091032_gloss.tga
+map_bump medal_wire_212091032_nmap.tga
+newmtl wire_199086041
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd medal_wire_212091032_color.tga
+map_Ks medal_wire_212091032_gloss.tga
+map_bump medal_wire_212091032_nmap.tga
+newmtl wire_077004004
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd medal_wire_212091032_color.tga
+map_Ks medal_wire_212091032_gloss.tga
+map_bump medal_wire_212091032_nmap.tga

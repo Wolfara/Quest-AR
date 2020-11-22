@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class UlikaScript : MonoBehaviour
 {
-    public string desc;
+    public string desc;//описание улики
 
-    public bool finalUlika;
+    public bool finalUlika;//ключевая ли это улика
     // Start is called before the first frame update
 }

@@ -5,17 +5,17 @@ using UnityEngine.SceneManagement;
 
 public class QuestChoise : MonoBehaviour
 {
-    public void Quest1()
+    public void Quest1()//выбор первого квеста
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(1);//переход на первый квест
     }
 
-    public void Back()
+    public void Back()//выйти в меню
     {
         SceneManager.LoadScene(0);
     }
 
-    public void QuestChoiseMenu()
+    public void QuestChoiseMenu()//зайти в меню выбора квеста
     {
         SceneManager.LoadScene(3);
     }

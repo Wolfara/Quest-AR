@@ -8,13 +8,17 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
+          <e p="AchivementsMenu.cs" t="Include" />
           <e p="ButtonScripts.cs" t="Include" />
           <e p="EnteringScript.cs" t="Include" />
           <e p="FinalChoise.cs" t="Include" />
+          <e p="GoOnNextScene.cs" t="Include" />
           <e p="InteractWithObject.cs" t="Include" />
           <e p="PhoneScript.cs" t="Include" />
           <e p="QuestChoise.cs" t="Include" />
+          <e p="Settings.cs" t="Include" />
           <e p="SpawnObj.cs" t="Include" />
+          <e p="Timer.cs" t="Include" />
           <e p="UlikaScript.cs" t="Include" />
         </e>
       </e>

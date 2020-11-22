@@ -1,0 +1,22 @@
+newmtl wire_057008136
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd bumajnik_wire_057008136_color.tga
+map_Ks bumajnik_wire_057008136_gloss.tga
+map_bump bumajnik_wire_057008136_nmap.tga
+newmtl wire_228184153
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd bumajnik_wire_057008136_color.tga
+map_Ks bumajnik_wire_057008136_gloss.tga
+map_bump bumajnik_wire_057008136_nmap.tga

@@ -19,12 +19,12 @@ public class PhoneScript : MonoBehaviour
         fraza = 1;
     }
 
-    private void Update()
+    /*private void Update()
     {
         Debug.Log(fraza);
-    }
+    }*/
 
-    public void Button1()
+    public void Button1()//первый вариант ответа
     {
         if (fraza == 1)
         {
@@ -42,12 +42,12 @@ public class PhoneScript : MonoBehaviour
         }
         else if (fraza == 3)
         {
-            SceneManager.LoadScene(2);
+            SceneManager.LoadScene(2);//переход на следующую сцену
         }
         fraza++;
     }
 
-    public void Button2()
+    public void Button2()//второй вариант ответа
     {
         if (fraza == 1)
         {
@@ -65,14 +65,14 @@ public class PhoneScript : MonoBehaviour
         }
         else if (fraza == 3)
         {
-            Destroy(thisCanvas);
+            Destroy(thisCanvas);//закрытие диалога
         }
         fraza++;
     }
 
-    public void Button3()
+    public void Button3()//выйти из диалога
     {
-        Destroy(thisCanvas);
+        Destroy(thisCanvas);//закрытие диалога
     }
 
 }
