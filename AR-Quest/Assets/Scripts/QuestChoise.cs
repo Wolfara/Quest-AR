@@ -17,6 +17,6 @@ public class QuestChoise : MonoBehaviour
 
     public void QuestChoiseMenu()//зайти в меню выбора квеста
     {
-        SceneManager.LoadScene(3);
+        SceneManager.LoadScene(2);
     }
 }

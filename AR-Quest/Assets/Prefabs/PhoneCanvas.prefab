@@ -120,7 +120,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 2937124998217532977}
         m_TargetAssemblyTypeName: PhoneScript, Assembly-CSharp
         m_MethodName: Button2
         m_Mode: 1
@@ -252,7 +252,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 2937124998217532977}
         m_TargetAssemblyTypeName: PhoneScript, Assembly-CSharp
         m_MethodName: Button1
         m_Mode: 1
@@ -342,8 +342,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u041F\u0435\u0440\u0435\u0439\u0442\u0438 \u043D\u0430 \u0441\u043B\u0435\u0434\u0443\u044E\u0449\u0443\u044E
-    \u043B\u043E\u043A\u0430\u0446\u0438\u044E"
+  m_Text: "\u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u0442\u044C \u043F\u043E\u0438\u0441\u043A
+    \u0443\u043B\u0438\u043A"
 --- !u!1 &6465234708303954973
 GameObject:
   m_ObjectHideFlags: 0
@@ -356,6 +356,7 @@ GameObject:
   - component: {fileID: 6465234708303954970}
   - component: {fileID: 6465234708303954971}
   - component: {fileID: 6465234708303954972}
+  - component: {fileID: 2937124998217532977}
   m_Layer: 5
   m_Name: PhoneCanvas
   m_TagString: Untagged
@@ -444,6 +445,20 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!114 &2937124998217532977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6465234708303954973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67d19e3b30d2a777789f02211d6659e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  thisCanvas: {fileID: 6465234708303954973}
+  gO: {fileID: 0}
 --- !u!1 &8032785927321315196
 GameObject:
   m_ObjectHideFlags: 0
@@ -522,5 +537,5 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u0442\u044C \u043F\u043E\u0438\u0441\u043A
-    \u0443\u043B\u0438\u043A"
+  m_Text: "\u041F\u0435\u0440\u0435\u0439\u0442\u0438 \u043D\u0430 \u0441\u043B\u0435\u0434\u0443\u044E\u0449\u0443\u044E
+    \u043B\u043E\u043A\u0430\u0446\u0438\u044E"

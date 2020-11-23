@@ -15,8 +15,41 @@ EditorBuildSettings:
     path: Assets/Scenes/QuestChoise.unity
     guid: b18b10377655040409fd552301ed9330
   - enabled: 1
+    path: Assets/Scenes/Npc1scene.unity
+    guid: e867add179855c6b5922dd231e77455f
+  - enabled: 1
     path: Assets/Scenes/Quest1Scene2.unity
     guid: dcd951adfc15d40b28708234fcdf76e5
+  - enabled: 1
+    path: Assets/Scenes/Npc2scene2.unity
+    guid: 773ee12487439bdcfaa0afef525c6cad
+  - enabled: 1
+    path: Assets/Scenes/Quest1Scene3.unity
+    guid: 05ffd8bd032744957952d60af2697343
+  - enabled: 1
+    path: Assets/Scenes/Npc2scene3.unity
+    guid: 150867f6333686b6385bfe5463fbce9a
+  - enabled: 1
+    path: Assets/Scenes/Quest1Scene4.unity
+    guid: 68894f08a5fab5afb9e61d330e00fdbb
+  - enabled: 1
+    path: Assets/Scenes/Npc2scene4.unity
+    guid: 256d34272d25a1a5fb1b7626a07aebea
+  - enabled: 1
+    path: Assets/Scenes/Quest1Scene5.unity
+    guid: 4b4c93d27607fb54d9bb8c754dc1c0ad
+  - enabled: 1
+    path: Assets/Scenes/Choise1.unity
+    guid: 3247cad344a57389e933814cfc5beb3f
+  - enabled: 1
+    path: Assets/Scenes/Choise2.unity
+    guid: 409ede63b435a45a68198f9a65a24db0
+  - enabled: 1
+    path: Assets/Scenes/Choise3.unity
+    guid: 1e7482254e69f05a2a35218cc265e326
+  - enabled: 1
+    path: Assets/Scenes/Choise4.unity
+    guid: 5c2093270d2085baa99df81f13e70916
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 984d4ff650445ec4fb2df7c3a23197af, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 50e606902f1826f49a8ca11fefe4f8cb, type: 2}

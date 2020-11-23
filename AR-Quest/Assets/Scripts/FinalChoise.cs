@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class FinalChoise : MonoBehaviour
@@ -31,25 +32,23 @@ public class FinalChoise : MonoBehaviour
 
     public void Choise1()//выбор1
     {
-        choise = 1;
-        finalText.text = "Неправильно";
+        SceneManager.LoadScene(11);
     }
 
     public void Choise3()//выбор3
     {
-        choise = 3;
-        finalText.text = "Неправильно, но он тоже виноват";
+        SceneManager.LoadScene(12);
     }
 
     public void Choise2()//выбор2
     {
-        choise = 2;
-        finalText.text = "Правильно"; 
+        SceneManager.LoadScene(13);
     }
 
     public void Buy()//покупка подсказки
     {
-        if (money >= 10)//если хватает монет
+        SceneManager.LoadScene(14);
+        /*if (money >= 10)//если хватает монет
         {
             money -= 10;
             finalText.text = "Это второй";
@@ -58,6 +57,6 @@ public class FinalChoise : MonoBehaviour
         else//если не хватает монет
         {
             finalText.text = "Вам не хватает денег на подсказку";
-        }
+        }*/
     }
 }

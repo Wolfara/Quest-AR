@@ -52,6 +52,8 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\SpawnObj.cs" />
      <Compile Include="Assets\Scripts\Timer.cs" />
+     <Compile Include="Assets\Scripts\NextScene.cs" />
+     <Compile Include="Assets\Scripts\GoOnNextScene.cs" />
      <Compile Include="Assets\Scripts\InteractWithObject.cs" />
      <Compile Include="Assets\Scripts\Settings.cs" />
      <Compile Include="Assets\Scripts\PhoneScript.cs" />
@@ -61,7 +63,9 @@
      <Compile Include="Assets\Scripts\EnteringScript.cs" />
      <Compile Include="Assets\Scripts\ButtonScripts.cs" />
      <Compile Include="Assets\Scripts\AchivementsMenu.cs" />
-     <Compile Include="Assets\Scripts\GoOnNextScene.cs" />
+     <Compile Include="Assets\Scripts\CloseDesk.cs" />
+     <Compile Include="Assets\Scripts\CloseLoading.cs" />
+     <Compile Include="Assets\Scripts\Menu.cs" />
  <Reference Include="Unity.XR.Management">
  <HintPath>/home/andreyka/Документы/GitHub/Quest-AR/AR-Quest/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
  </Reference>

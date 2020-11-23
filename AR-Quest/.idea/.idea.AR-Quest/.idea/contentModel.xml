@@ -10,10 +10,14 @@
         <e p="Scripts" t="Include">
           <e p="AchivementsMenu.cs" t="Include" />
           <e p="ButtonScripts.cs" t="Include" />
+          <e p="CloseDesk.cs" t="Include" />
+          <e p="CloseLoading.cs" t="Include" />
           <e p="EnteringScript.cs" t="Include" />
           <e p="FinalChoise.cs" t="Include" />
           <e p="GoOnNextScene.cs" t="Include" />
           <e p="InteractWithObject.cs" t="Include" />
+          <e p="Menu.cs" t="Include" />
+          <e p="NextScene.cs" t="Include" />
           <e p="PhoneScript.cs" t="Include" />
           <e p="QuestChoise.cs" t="Include" />
           <e p="Settings.cs" t="Include" />
